@@ -69,4 +69,4 @@ Show Image
 Show Image
 Show Image
 
-⚡ "Data is the new oil — and I know how to refine it."
+⚡ "Data is the new oil — and I know how t refine it."
